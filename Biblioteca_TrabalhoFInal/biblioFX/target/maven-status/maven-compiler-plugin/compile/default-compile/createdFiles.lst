@@ -1,0 +1,14 @@
+com\mycompany\bibliofx\ExibirLivros.class
+com\mycompany\bibliofx\MainUserController.class
+com\mycompany\bibliofx\MainAdminController.class
+com\mycompany\bibliofx\ConectarDB.class
+com\mycompany\bibliofx\App.class
+com\mycompany\bibliofx\SecondaryController.class
+com\mycompany\bibliofx\AdminAdicionaLivroController.class
+com\mycompany\bibliofx\AdminExcluiLivroController.class
+com\mycompany\bibliofx\Livro.class
+module-info.class
+com\mycompany\bibliofx\UserEmprestaLivroController.class
+com\mycompany\bibliofx\LoginController.class
+com\mycompany\bibliofx\Sessao.class
+com\mycompany\bibliofx\CadastroController.class
